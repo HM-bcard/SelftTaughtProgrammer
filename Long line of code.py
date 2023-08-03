@@ -1,10 +1,4 @@
-print\
-       ("""a long
-        line
-        of
-        code.""")
-print(""" a long
+print("""This is a long
     line
     of
-    code
-    as well""")
+    code.""")
