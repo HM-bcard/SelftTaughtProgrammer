@@ -65,3 +65,4 @@ SyntaxError: invalid syntax
 >>> 
 >>> print(swap())
 0.1
+>>> return swap
